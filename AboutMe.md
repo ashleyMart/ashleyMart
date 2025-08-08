@@ -4,7 +4,7 @@ I'm currently completing my final year of a Bachelor of Applied Science in Secur
 
 My profile showcases a simple Baccarat program I built with a strong focus on secure user login and admin control functionality. I chose to build a casino-style application because of my experience working in the casino industry, where I have often thought about how the games I see on the floor could be programmed.
 
-This version of the game is simplified, each hand is treated as a 50/50 chance. If I continue to develop it, I plan to implement more realistic odds based on a 6–7 deck shoe, with proper shuffling and card tracking to simulate a live Baccarat table more accurately.
+This version of the game is simplified, each hand is treated as a 50/50 chance. Where you are only play with one deck and it shuffles every hand. If I continue to develop it, I plan to implement more realistic odds based on a 6–8 decks, with proper shuffling and card tracking to simulate a live Baccarat table more accurately.
 
 The core focus of this project, however, is not game complexity, it is security with loging in to the application. This program demonstrates key secure development practices, including:
 
